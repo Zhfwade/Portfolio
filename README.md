@@ -11,3 +11,8 @@ Creative Media & Game Technology, Saxion Enschede
 ### Collaboration Skills
 - Rugby Team
 - Minecraft Server
+
+### Applications
+- Unity
+- Ableton
+- GIMP
