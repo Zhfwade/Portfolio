@@ -5,7 +5,7 @@
 Creative Media & Game Technology, Saxion Enschede
 
 ### My Work
-[Game Design 2](/docs/assets/img/Game Design 2.jpg)
+![Game Design 2](/docs/assets/img/Game Design 2.jpg)
 - CMGT Admission
 
 ### Collaboration Skills
