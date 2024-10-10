@@ -1,7 +1,13 @@
-# Game Designer
+# Brenna Mathu 
+## Game Designer, UI Designer, Level Designer
 
 ### Education
+Creative Media & Game Technology, Saxion Enschede
 
-### My work
--project 1
--project 2
+### My Work
+- Games Image
+- CMGT Admission
+
+### Collaboration Skills
+- Rugby Team
+- Minecraft Server
